@@ -1,0 +1,4 @@
+# 25/Jun/2024 #
+google.com, pub-1858833027723278, DIRECT, f08c47fec0942fa0
+# Meta: property_id #
+facebook.com, 1396172727540877, RESELLER, c3e20eee3f780d68
